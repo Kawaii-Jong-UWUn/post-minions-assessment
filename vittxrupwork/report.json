@@ -1,0 +1,229 @@
+{
+    "profile_info": {
+        "login": "vittxrupwork",
+        "id": 218950731,
+        "node_id": "U_kgDODQzsSw",
+        "avatar_url": "https://avatars.githubusercontent.com/u/218950731?v=4",
+        "html_url": "https://github.com/vittxrupwork",
+        "type": "User",
+        "site_admin": false,
+        "name": "Vitor Schirmer",
+        "company": "Upwork Freelancer",
+        "blog": "https://vitvitvit.com.br",
+        "location": "Curitiba",
+        "email": "upworkjobs777@gmail.com",
+        "hireable": null,
+        "bio": "Full Stack & AI Engineer | Trading",
+        "twitter_username": null,
+        "public_repos": 0,
+        "public_gists": 0,
+        "followers": 1,
+        "following": 1,
+        "created_at": "2025-07-02T09:52:03Z",
+        "updated_at": "2025-07-04T18:48:42Z"
+    },
+    "original_repos_count": 0,
+    "forked_repos_count": 0,
+    "mutual_followers": [],
+    "following": [
+        "codezs17"
+    ],
+    "followers": [
+        "top0329"
+    ],
+    "repo_list": [],
+    "forked_repo_list": [],
+    "unique_emails": [],
+    "contributors": [],
+    "pull_requests_to_other_repos": [],
+    "commits_to_other_repos": [],
+    "repos": [],
+    "commits": {},
+    "errors": [],
+    "commit_filter": [],
+    "recent_events": [
+        {
+            "type": "WatchEvent",
+            "target": "codezs17/speedcell",
+            "date": "2025-07-25T05:42:50Z",
+            "description": "vittxrupwork starred the repository codezs17/speedcell"
+        },
+        {
+            "type": "WatchEvent",
+            "target": "codezs17/xrpl-ios",
+            "date": "2025-07-25T05:42:49Z",
+            "description": "vittxrupwork starred the repository codezs17/xrpl-ios"
+        },
+        {
+            "type": "WatchEvent",
+            "target": "codezs17/xrpl_transactions",
+            "date": "2025-07-25T05:42:48Z",
+            "description": "vittxrupwork starred the repository codezs17/xrpl_transactions"
+        },
+        {
+            "type": "WatchEvent",
+            "target": "codezs17/Trip-Planner",
+            "date": "2025-07-25T05:42:47Z",
+            "description": "vittxrupwork starred the repository codezs17/Trip-Planner"
+        },
+        {
+            "type": "WatchEvent",
+            "target": "codezs17/techjobs-mvc",
+            "date": "2025-07-25T05:42:46Z",
+            "description": "vittxrupwork starred the repository codezs17/techjobs-mvc"
+        },
+        {
+            "type": "WatchEvent",
+            "target": "codezs17/sudoswap-sol",
+            "date": "2025-07-25T05:42:45Z",
+            "description": "vittxrupwork starred the repository codezs17/sudoswap-sol"
+        },
+        {
+            "type": "WatchEvent",
+            "target": "codezs17/sstore2",
+            "date": "2025-07-25T05:42:43Z",
+            "description": "vittxrupwork starred the repository codezs17/sstore2"
+        },
+        {
+            "type": "WatchEvent",
+            "target": "codezs17/solid-php-example",
+            "date": "2025-07-25T05:42:42Z",
+            "description": "vittxrupwork starred the repository codezs17/solid-php-example"
+        },
+        {
+            "type": "WatchEvent",
+            "target": "codezs17/ai-chatbot",
+            "date": "2025-07-25T05:42:41Z",
+            "description": "vittxrupwork starred the repository codezs17/ai-chatbot"
+        },
+        {
+            "type": "WatchEvent",
+            "target": "codezs17/Agent",
+            "date": "2025-07-25T05:42:39Z",
+            "description": "vittxrupwork starred the repository codezs17/Agent"
+        },
+        {
+            "type": "WatchEvent",
+            "target": "codezs17/Agent-chinese",
+            "date": "2025-07-25T05:42:39Z",
+            "description": "vittxrupwork starred the repository codezs17/Agent-chinese"
+        },
+        {
+            "type": "WatchEvent",
+            "target": "codezs17/Ninja-trader8",
+            "date": "2025-07-25T05:42:38Z",
+            "description": "vittxrupwork starred the repository codezs17/Ninja-trader8"
+        },
+        {
+            "type": "WatchEvent",
+            "target": "codezs17/Solana-trading-bot-beta",
+            "date": "2025-07-25T05:42:32Z",
+            "description": "vittxrupwork starred the repository codezs17/Solana-trading-bot-beta"
+        },
+        {
+            "type": "WatchEvent",
+            "target": "codezs17/Stock-trading-bot",
+            "date": "2025-07-25T05:42:32Z",
+            "description": "vittxrupwork starred the repository codezs17/Stock-trading-bot"
+        },
+        {
+            "type": "WatchEvent",
+            "target": "codezs17/shopping-mern",
+            "date": "2025-07-25T05:42:31Z",
+            "description": "vittxrupwork starred the repository codezs17/shopping-mern"
+        },
+        {
+            "type": "WatchEvent",
+            "target": "codezs17/next-static",
+            "date": "2025-07-25T05:42:30Z",
+            "description": "vittxrupwork starred the repository codezs17/next-static"
+        },
+        {
+            "type": "WatchEvent",
+            "target": "codezs17/nextjs-contentful-starter",
+            "date": "2025-07-25T05:42:29Z",
+            "description": "vittxrupwork starred the repository codezs17/nextjs-contentful-starter"
+        },
+        {
+            "type": "WatchEvent",
+            "target": "codezs17/next-js-11-basic-authentication-example",
+            "date": "2025-07-25T05:42:27Z",
+            "description": "vittxrupwork starred the repository codezs17/next-js-11-basic-authentication-example"
+        },
+        {
+            "type": "WatchEvent",
+            "target": "codezs17/JavaWebCalculator",
+            "date": "2025-07-25T05:42:27Z",
+            "description": "vittxrupwork starred the repository codezs17/JavaWebCalculator"
+        },
+        {
+            "type": "WatchEvent",
+            "target": "codezs17/E-commerce-MERN-stack",
+            "date": "2025-07-25T05:42:25Z",
+            "description": "vittxrupwork starred the repository codezs17/E-commerce-MERN-stack"
+        },
+        {
+            "type": "WatchEvent",
+            "target": "codezs17/Acme-Next-",
+            "date": "2025-07-25T05:42:25Z",
+            "description": "vittxrupwork starred the repository codezs17/Acme-Next-"
+        },
+        {
+            "type": "WatchEvent",
+            "target": "codezs17/Doctor-Elixir",
+            "date": "2025-07-25T05:42:23Z",
+            "description": "vittxrupwork starred the repository codezs17/Doctor-Elixir"
+        },
+        {
+            "type": "WatchEvent",
+            "target": "codezs17/Binance-abitrage-bot",
+            "date": "2025-07-25T05:42:22Z",
+            "description": "vittxrupwork starred the repository codezs17/Binance-abitrage-bot"
+        },
+        {
+            "type": "WatchEvent",
+            "target": "codezs17/Ethereum-Android-Intro",
+            "date": "2025-07-25T05:42:21Z",
+            "description": "vittxrupwork starred the repository codezs17/Ethereum-Android-Intro"
+        },
+        {
+            "type": "WatchEvent",
+            "target": "codezs17/llamaindex-chatbot",
+            "date": "2025-07-25T05:42:19Z",
+            "description": "vittxrupwork starred the repository codezs17/llamaindex-chatbot"
+        },
+        {
+            "type": "WatchEvent",
+            "target": "codezs17/php-design-patterns",
+            "date": "2025-07-25T05:42:18Z",
+            "description": "vittxrupwork starred the repository codezs17/php-design-patterns"
+        },
+        {
+            "type": "WatchEvent",
+            "target": "codezs17/MERN-Banking",
+            "date": "2025-07-25T05:42:16Z",
+            "description": "vittxrupwork starred the repository codezs17/MERN-Banking"
+        },
+        {
+            "type": "WatchEvent",
+            "target": "codezs17/fuel-merkle-sol",
+            "date": "2025-07-25T05:42:15Z",
+            "description": "vittxrupwork starred the repository codezs17/fuel-merkle-sol"
+        },
+        {
+            "type": "WatchEvent",
+            "target": "codezs17/Exzeitable-LiveView",
+            "date": "2025-07-25T05:42:14Z",
+            "description": "vittxrupwork starred the repository codezs17/Exzeitable-LiveView"
+        },
+        {
+            "type": "WatchEvent",
+            "target": "codezs17/monkey-rust",
+            "date": "2025-07-25T05:42:14Z",
+            "description": "vittxrupwork starred the repository codezs17/monkey-rust"
+        }
+    ],
+    "issues": [],
+    "comments": [],
+    "potential_copy": []
+}
