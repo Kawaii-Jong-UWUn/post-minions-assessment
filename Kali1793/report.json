@@ -1,0 +1,233 @@
+{
+    "profile_info": {
+        "login": "Kali1793",
+        "id": 215445912,
+        "node_id": "U_kgDODNdxmA",
+        "avatar_url": "https://avatars.githubusercontent.com/u/215445912?v=4",
+        "html_url": "https://github.com/Kali1793",
+        "type": "User",
+        "site_admin": false,
+        "name": "Mars",
+        "company": "AWS",
+        "blog": "",
+        "location": "Earth",
+        "email": null,
+        "hireable": null,
+        "bio": "Trading bot",
+        "twitter_username": null,
+        "public_repos": 1,
+        "public_gists": 0,
+        "followers": 0,
+        "following": 1,
+        "created_at": "2025-06-09T03:02:40Z",
+        "updated_at": "2025-06-23T01:20:17Z"
+    },
+    "original_repos_count": 0,
+    "forked_repos_count": 1,
+    "mutual_followers": [],
+    "following": [
+        "codezs17"
+    ],
+    "followers": [],
+    "repo_list": [],
+    "forked_repo_list": [
+        "Stock-trading-bot"
+    ],
+    "unique_emails": [],
+    "contributors": [],
+    "pull_requests_to_other_repos": [
+        {
+            "repo": "codezs17/solana-smart-contract",
+            "pull_requests": [
+                "https://github.com/codezs17/solana-smart-contract/pull/6",
+                "https://github.com/codezs17/solana-smart-contract/pull/5",
+                "https://github.com/codezs17/solana-smart-contract/pull/4",
+                "https://github.com/codezs17/solana-smart-contract/pull/2"
+            ]
+        },
+        {
+            "repo": "codezs17/Solana-Flash-loan-bot",
+            "pull_requests": [
+                "https://github.com/codezs17/Solana-Flash-loan-bot/pull/16",
+                "https://github.com/codezs17/Solana-Flash-loan-bot/pull/15",
+                "https://github.com/codezs17/Solana-Flash-loan-bot/pull/14",
+                "https://github.com/codezs17/Solana-Flash-loan-bot/pull/13",
+                "https://github.com/codezs17/Solana-Flash-loan-bot/pull/12",
+                "https://github.com/codezs17/Solana-Flash-loan-bot/pull/11"
+            ]
+        }
+    ],
+    "commits_to_other_repos": [
+        {
+            "repo": "codezs17/Solana-Flash-loan-bot",
+            "commits": [
+                "d809795e4e46b83e47bd947670a9a293b83c0fce",
+                "95f411d5c3bab423ee0aed318243ccddfdf2a7fd",
+                "45e02e112bae67c7c1c9e133ee2e03acf65e6b20",
+                "c66462c7ff9bdbf230c71341bfbe380fcfae19bb",
+                "bf5e5bc0b71641248ec072f392954ad352107ab4",
+                "7017248b9b9186e33b37567b5ead51320f5dd379",
+                "ebc07a0ca628ac77e16878be92ee174a04258acf",
+                "9320dfba67f066b04986ca6488ed5c093b6d58b9",
+                "ad5e3b75a0fe5ea22255ee166b1f5b48d4880897",
+                "c1ff6d34a15d4bc40f60877308bf2e58c541b494"
+            ]
+        },
+        {
+            "repo": "codezs17/solana-smart-contract",
+            "commits": [
+                "26037e401222a6a2e54bc453d9d6b94595b80e92",
+                "ba0f0e0fd6e4d98c8cf1d03bcfb3729037dc73ea",
+                "f3437ea0fb3cd1d79262c097236a363bf9286f79"
+            ]
+        }
+    ],
+    "repos": [
+        {
+            "id": 1000066553,
+            "node_id": "R_kgDOO5vN-Q",
+            "name": "Stock-trading-bot",
+            "full_name": "Kali1793/Stock-trading-bot",
+            "private": false,
+            "owner": {
+                "login": "Kali1793"
+            },
+            "html_url": "https://github.com/Kali1793/Stock-trading-bot",
+            "description": "This is high profit bot",
+            "fork": true,
+            "url": "https://api.github.com/repos/Kali1793/Stock-trading-bot",
+            "created_at": "2025-06-11T08:05:39Z",
+            "updated_at": "2025-06-13T16:41:23Z",
+            "pushed_at": "2025-06-11T05:41:48Z",
+            "homepage": null,
+            "size": 9872,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": null,
+            "has_issues": false,
+            "has_projects": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "has_discussions": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "archived": false,
+            "disabled": false,
+            "open_issues_count": 0,
+            "license": {
+                "key": "mit",
+                "name": "MIT License",
+                "spdx_id": "MIT"
+            },
+            "allow_forking": true,
+            "is_template": false,
+            "web_commit_signoff_required": false,
+            "topics": [],
+            "visibility": "public",
+            "forks": 0,
+            "open_issues": 0,
+            "watchers": 0,
+            "default_branch": "master",
+            "permissions": {
+                "admin": false,
+                "maintain": false,
+                "push": false,
+                "triage": false,
+                "pull": true
+            }
+        }
+    ],
+    "commits": {},
+    "errors": [],
+    "commit_filter": [],
+    "recent_events": [
+        {
+            "type": "PushEvent",
+            "target": "codezs17/solana-smart-contract",
+            "date": "2025-07-17T22:31:11Z",
+            "description": "Kali1793 pushed to codezs17/solana-smart-contract. Commits: 2"
+        },
+        {
+            "type": "PullRequestEvent",
+            "target": "codezs17/solana-smart-contract",
+            "date": "2025-07-17T22:31:10Z",
+            "description": "Kali1793 closed a pull request in codezs17/solana-smart-contract"
+        },
+        {
+            "type": "PullRequestEvent",
+            "target": "codezs17/solana-smart-contract",
+            "date": "2025-07-17T22:31:05Z",
+            "description": "Kali1793 opened a pull request in codezs17/solana-smart-contract"
+        },
+        {
+            "type": "PushEvent",
+            "target": "codezs17/solana-smart-contract",
+            "date": "2025-07-17T22:29:06Z",
+            "description": "Kali1793 pushed to codezs17/solana-smart-contract. Commits: 2"
+        },
+        {
+            "type": "PullRequestEvent",
+            "target": "codezs17/solana-smart-contract",
+            "date": "2025-07-17T22:29:06Z",
+            "description": "Kali1793 closed a pull request in codezs17/solana-smart-contract"
+        },
+        {
+            "type": "PullRequestEvent",
+            "target": "codezs17/solana-smart-contract",
+            "date": "2025-07-17T22:28:52Z",
+            "description": "Kali1793 opened a pull request in codezs17/solana-smart-contract"
+        },
+        {
+            "type": "PushEvent",
+            "target": "codezs17/solana-smart-contract",
+            "date": "2025-07-17T22:27:48Z",
+            "description": "Kali1793 pushed to codezs17/solana-smart-contract. Commits: 2"
+        },
+        {
+            "type": "PullRequestEvent",
+            "target": "codezs17/solana-smart-contract",
+            "date": "2025-07-17T22:27:47Z",
+            "description": "Kali1793 closed a pull request in codezs17/solana-smart-contract"
+        },
+        {
+            "type": "PullRequestEvent",
+            "target": "codezs17/solana-smart-contract",
+            "date": "2025-07-17T22:27:40Z",
+            "description": "Kali1793 opened a pull request in codezs17/solana-smart-contract"
+        },
+        {
+            "type": "PullRequestEvent",
+            "target": "codezs17/solana-smart-contract",
+            "date": "2025-07-17T18:22:31Z",
+            "description": "Kali1793 opened a pull request in codezs17/solana-smart-contract"
+        },
+        {
+            "type": "MemberEvent",
+            "target": "codezs17/solana-smart-contract",
+            "date": "2025-07-17T18:15:04Z",
+            "description": "Kali1793 added a member in codezs17/solana-smart-contract"
+        },
+        {
+            "type": "MemberEvent",
+            "target": "codezs17/masterAI-agents",
+            "date": "2025-07-17T18:13:52Z",
+            "description": "Kali1793 added a member in codezs17/masterAI-agents"
+        },
+        {
+            "type": "WatchEvent",
+            "target": "top0329/mars-wtf-frontend",
+            "date": "2025-07-11T19:22:59Z",
+            "description": "Kali1793 starred the repository top0329/mars-wtf-frontend"
+        },
+        {
+            "type": "WatchEvent",
+            "target": "top0329/interview-amigo",
+            "date": "2025-07-11T19:22:29Z",
+            "description": "Kali1793 starred the repository top0329/interview-amigo"
+        }
+    ],
+    "issues": [],
+    "comments": [],
+    "potential_copy": []
+}

@@ -1,0 +1,103 @@
+{
+    "profile_info": {
+        "login": "MarsSpec",
+        "id": 215811733,
+        "node_id": "U_kgDODN0GlQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/215811733?v=4",
+        "html_url": "https://github.com/MarsSpec",
+        "type": "User",
+        "site_admin": false,
+        "name": null,
+        "company": null,
+        "blog": "",
+        "location": null,
+        "email": null,
+        "hireable": null,
+        "bio": null,
+        "twitter_username": null,
+        "public_repos": 1,
+        "public_gists": 0,
+        "followers": 0,
+        "following": 1,
+        "created_at": "2025-06-11T08:03:39Z",
+        "updated_at": "2025-06-11T08:03:55Z"
+    },
+    "original_repos_count": 0,
+    "forked_repos_count": 1,
+    "mutual_followers": [],
+    "following": [
+        "codezs17"
+    ],
+    "followers": [],
+    "repo_list": [],
+    "forked_repo_list": [
+        "Stock-trading-bot"
+    ],
+    "unique_emails": [],
+    "contributors": [],
+    "pull_requests_to_other_repos": [],
+    "commits_to_other_repos": [],
+    "repos": [
+        {
+            "id": 1000067067,
+            "node_id": "R_kgDOO5vP-w",
+            "name": "Stock-trading-bot",
+            "full_name": "MarsSpec/Stock-trading-bot",
+            "private": false,
+            "owner": {
+                "login": "MarsSpec"
+            },
+            "html_url": "https://github.com/MarsSpec/Stock-trading-bot",
+            "description": "Good profit",
+            "fork": true,
+            "url": "https://api.github.com/repos/MarsSpec/Stock-trading-bot",
+            "created_at": "2025-06-11T08:06:43Z",
+            "updated_at": "2025-06-11T08:06:43Z",
+            "pushed_at": "2025-06-11T05:41:48Z",
+            "homepage": null,
+            "size": 9872,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": null,
+            "has_issues": false,
+            "has_projects": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "has_discussions": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "archived": false,
+            "disabled": false,
+            "open_issues_count": 0,
+            "license": {
+                "key": "mit",
+                "name": "MIT License",
+                "spdx_id": "MIT"
+            },
+            "allow_forking": true,
+            "is_template": false,
+            "web_commit_signoff_required": false,
+            "topics": [],
+            "visibility": "public",
+            "forks": 0,
+            "open_issues": 0,
+            "watchers": 0,
+            "default_branch": "master",
+            "permissions": {
+                "admin": false,
+                "maintain": false,
+                "push": false,
+                "triage": false,
+                "pull": true
+            }
+        }
+    ],
+    "commits": {},
+    "errors": [],
+    "commit_filter": [],
+    "recent_events": [],
+    "issues": [],
+    "comments": [],
+    "potential_copy": []
+}
