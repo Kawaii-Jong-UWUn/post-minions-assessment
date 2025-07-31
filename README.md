@@ -1,6 +1,5 @@
 # More Than Minions: Analysis of DPRK GitHub accounts
-* Top level .canvas and .png files are meant to be opened using [Obsidian](https://obsidian.md/).
-* Individual username file paths are supporting evidence for each user respectively.
+* [Obsidian](https://obsidian.md/) is required to open the .canvas file.
   
 ## Cluster of Interest identified on 30 Jul 2025:
 ### Mark Limuel Santiago
